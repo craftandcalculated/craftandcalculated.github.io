@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Craft and Calculated
 
-You can use the [editor on GitHub](https://github.com/craftandcalculated/craftandcalculated.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is made with the goal of helping you find the perfect beer for you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Many people say beer isn't for them, and that is fair. But maybe they just haven't found the beer for them or have a misconseption of beers.
+When people hear IPA they think white guy with a beard and tattoos drinking something extremely bitter and cloudy.
+This is not what craft beer is! (I mean it kinda is but there's so much more to discover!)
 
 ### Markdown
 
